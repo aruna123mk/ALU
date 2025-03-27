@@ -1,5 +1,3 @@
-ALU Design in SystemVerilog
-
 Description
 
 An Arithmetic Logic Unit (ALU) is a critical component in digital circuits responsible for performing arithmetic and logical operations. It serves as the core computational unit in processors and other digital systems.
